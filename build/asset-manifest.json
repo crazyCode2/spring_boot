@@ -1,10 +1,8 @@
 {
-  "main.css": "static/css/main.05c2ebc3.css",
-  "main.css.map": "static/css/main.05c2ebc3.css.map",
-  "main.js": "static/js/main.aa4b6bb7.js",
-  "main.js.map": "static/js/main.aa4b6bb7.js.map",
-  "polyfills.js": "static/js/polyfills.8b0db232.js",
-  "polyfills.js.map": "static/js/polyfills.8b0db232.js.map",
+  "main.css": "static/css/main.de6a9f14.css",
+  "main.css.map": "static/css/main.de6a9f14.css.map",
+  "main.js": "static/js/main.1a1cc442.js",
+  "main.js.map": "static/js/main.1a1cc442.js.map",
   "static\\media\\adv_01.jpg": "static/media/adv_01.b5a387be.jpg",
   "static\\media\\adv_02.jpg": "static/media/adv_02.bc0bf58f.jpg",
   "static\\media\\adv_03.jpg": "static/media/adv_03.171c9604.jpg",
@@ -37,6 +35,6 @@
   "static\\media\\self.jpg": "static/media/self.7e84d370.jpg",
   "static\\media\\success_icon.png": "static/media/success_icon.587e95dc.png",
   "static\\media\\tel.jpg": "static/media/tel.215f28c8.jpg",
-  "vendor.js": "static/js/vendor.886aabd9.js",
-  "vendor.js.map": "static/js/vendor.886aabd9.js.map"
+  "vendor.js": "static/js/vendor.87b9dfdb.js",
+  "vendor.js.map": "static/js/vendor.87b9dfdb.js.map"
 }
